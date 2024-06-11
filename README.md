@@ -7,8 +7,6 @@
 
 ## 📍 Contacto
 
-- 🌍 Maipú, Chile 🇨🇱
-- 📞 +569 5143 7180
 - 📧 ignacioandrecamilettim@gmail.com
 
 ## 🛠️ Aptitudes Principales
