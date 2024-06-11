@@ -127,45 +127,44 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
 
 ## 🚀 Habilidades Técnicas
 
-<table align="center">
+<table align="center" style="width: 100%;">
   <tr>
-    <th colspan="7">Lenguajes de Programación</th>
-  </tr>
-  <tr>
-    <td align="center" width=110> <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,cs,python,javascript,typescript&theme=light"> </td>
-  </tr>
-   <tr>
-    <th colspan="7">Frameworks & Librerías</th>
-  </tr>
-   <tr>
-    <td align="center" width=110> <img src="https://skillicons.dev/icons?i=nodejs,express,react,angular,spring,flask,jest&theme=light"> </td>
-  </tr>
-    <tr>
-    <th colspan="7">Plataformas Cloud</th>
+    <th colspan="7" style="font-size: 1.5em;">Lenguajes de Programación</th>
   </tr>
   <tr>
-    <td align="center" width=110> <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify&theme=light"> </td>
+    <td align="center" width="150"> <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,cs,python,javascript,typescript&theme=light" style="height: 50px;"> </td>
   </tr>
   <tr>
-    <th colspan="7">Datos</th>
+    <th colspan="7" style="font-size: 1.5em;">Frameworks & Librerías</th>
   </tr>
   <tr>
-    <td align="center" width=110> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,prisma,pandas,databricks&theme=light"> </td>
-  </tr>
-    <tr>
-    <th colspan="7">Herramientas</th>
+    <td align="center" width="150"> <img src="https://skillicons.dev/icons?i=nodejs,express,react,angular,spring,flask,jest&theme=light" style="height: 50px;"> </td>
   </tr>
   <tr>
-    <td align="center" width=110> <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,androidstudio,postman,figma&theme=light"> </td>
-  </tr>
-    <tr>
-    <th colspan="7">DevOps</th>
+    <th colspan="7" style="font-size: 1.5em;">Plataformas Cloud</th>
   </tr>
   <tr>
-    <td align="center" width=110> <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,grafana,prometheus&theme=light"> </td>
+    <td align="center" width="150"> <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify&theme=light" style="height: 50px;"> </td>
+  </tr>
+  <tr>
+    <th colspan="7" style="font-size: 1.5em;">Datos</th>
+  </tr>
+  <tr>
+    <td align="center" width="150"> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,prisma,pandas,databricks&theme=light" style="height: 50px;"> </td>
+  </tr>
+  <tr>
+    <th colspan="7" style="font-size: 1.5em;">Herramientas</th>
+  </tr>
+  <tr>
+    <td align="center" width="150"> <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,androidstudio,postman,figma&theme=light" style="height: 50px;"> </td>
+  </tr>
+  <tr>
+    <th colspan="7" style="font-size: 1.5em;">DevOps</th>
+  </tr>
+  <tr>
+    <td align="center" width="150"> <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,grafana,prometheus&theme=light" style="height: 50px;"> </td>
   </tr>
 </table>
-
 ## 🌟 Proyectos Destacados
 
 ### 1. Banco de Crédito e Inversiones (BCI) en NEORIS
