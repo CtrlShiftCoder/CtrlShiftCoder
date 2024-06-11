@@ -1,13 +1,86 @@
 # 👋 ¡Hola a todos! Soy Ignacio Camiletti (Devig) 👨‍💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ignacio%20Camiletti-blue?style=flat&logo=linkedin)](www.linkedin.com/in/ignaciocamiletti) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-brightgreen?style=flat)](portafolio-ignaciocamiletti.netlify.app/)
+<div align="center">
+    <img src="https://img.icons8.com/fluency/30/000000/star.png" />
+    <img src="https://img.icons8.com/fluency/30/000000/star.png" />
+    <img src="https://img.icons8.com/fluency/30/000000/star.png" />
+    <img src="https://img.icons8.com/fluency/30/000000/star.png" />
+    <img src="https://img.icons8.com/color/30/000000/star--v1.png"/>
+</div>
+<br>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=Devig&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="Devig" /> 
+</p>
 
-**Senior Software Engineer** 💼 en **NEORIS**  🚀 | Apasionado por la **innovación** ✨ y el desarrollo **FullStack** 🌐 | Experto en **MERN** ⚛️, **MEAN** 🅰️, **Spring Boot** 🍃, **Python** 🐍, **AWS** ☁️ y **Azure** 🔷
+<!-- GREETING  -->
+<h3 align="center">
+  ¡Hola! Bienvenidos a mi perfil.<br> *****
+</h3>
 
-## 📍 Contacto
+<p align="center">
+  <a href="https://github.com/Devig/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20ignacioandrecamilettim@gmail.com;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22">
+  </a>
+</p>
 
-- 📧 ignacioandrecamilettim@gmail.com
+<div align="center">Social y Contacto</div>
+<br>
+<p align="center">
+    <a href="https://portafolio-ignaciocamiletti.netlify.app/">
+        <img src="https://img.shields.io/badge/PORTFOLIO-fff?style=for-the-badge&logo=googlechrome&logoColor=blue" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/ignaciocamiletti">
+        <img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:ignacioandrecamilettim@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    &nbsp; 
+    <br>
+    <a href="https://twitter.com/Devig">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    &nbsp;
+    <a href="https://www.hackerrank.com/ignaciocamiletti">
+        <img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Hackerrank" />
+    </a>
+    &nbsp;
+    <a href="https://www.researchgate.net/profile/Ignacio-Camiletti">
+        <img src="https://img.shields.io/badge/researchgate-4c334d?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="ResearchGate" />
+    </a>
+    &nbsp;
+    <a href="https://docs.google.com/document/d/15PXlkE-0aQZxIheTUT4qcEKU6Oy2F5wPQ3AtoF8yIOY/edit?usp=sharing">
+        <img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Resume" />
+    </a>
+    &nbsp;
+</p>
+<br>
+
+<!-- BADGES -->
+<p align="center">
+    <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
+    <img src="https://img.shields.io/badge/Hobby-Coding-blue" />
+    <img src="https://img.shields.io/badge/Programming-Python%2C%20JavaScript-blue" />
+    <img src="https://img.shields.io/badge/Lives-Nairobi-blue" />
+    <img src="https://img.shields.io/badge/Language-English%2C%20Swahili-blue" />
+</p>
+<br>
+
+<div align="center">
+
+## 🎓📚 Educación 
+![](https://img.shields.io/badge/maseno_universty-87CF3E?style=for-the-badge&logo=maseno&logoColor=white)
+![](https://img.shields.io/badge/moringa_school-430098?style=for-the-badge&logo=moringas_chool&logoColor=orange)
+![](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white) 
+![](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE) 
+![](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) 
+![](https://img.shields.io/badge/Kaggle-fff?style=for-the-badge&logo=Kaggle&logoColor=#0077B6) 
+![](https://img.shields.io/badge/codewars-9e2a2b?style=for-the-badge&logo=codewars&logoColor=white)
+![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
+
+</div>
 
 ## 🛠️ Aptitudes Principales
 
@@ -50,83 +123,79 @@ Me destaco por mi sólida experiencia en tecnologías como Node.js, Express, Mon
 
 Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar equipos de alto rendimiento y entregar soluciones de primer nivel. Me apasiona aprender y crecer profesionalmente, como lo demuestran mis certificaciones en Scrum, e-commerce, desarrollo de aplicaciones móviles y otras áreas, así como mi participación en cursos sobre arquitectura de software, análisis de datos y DevOps.
 
-¡Estoy emocionado por seguir superándome y llevando tus proyectos al siguiente nivel! 🚀
+¡Estoy emocionado por seguir superándome y contribuir al éxito de más proyectos tecnológicos desafiantes y gratificantes!
 
-## 💼 Experiencia
+## 🚀 Habilidades Técnicas
 
-### NEORIS - *Senior Software Engineer* (Marzo 2024 - Presente)
+<table align="center">
+  <tr>
+    <th colspan="7">Lenguajes de Programación</th>
+  </tr>
+  <tr>
+    <td align="center" width=110> <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,cs,python,javascript,typescript&theme=light"> </td>
+  </tr>
+   <tr>
+    <th colspan="7">Frameworks & Librerías</th>
+  </tr>
+   <tr>
+    <td align="center" width=110> <img src="https://skillicons.dev/icons?i=nodejs,express,react,angular,spring,flask,jest&theme=light"> </td>
+  </tr>
+    <tr>
+    <th colspan="7">Plataformas Cloud</th>
+  </tr>
+  <tr>
+    <td align="center" width=110> <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify&theme=light"> </td>
+  </tr>
+  <tr>
+    <th colspan="7">Datos</th>
+  </tr>
+  <tr>
+    <td align="center" width=110> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,prisma,pandas,databricks&theme=light"> </td>
+  </tr>
+    <tr>
+    <th colspan="7">Herramientas</th>
+  </tr>
+  <tr>
+    <td align="center" width=110> <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,eclipse,androidstudio,postman,figma&theme=light"> </td>
+  </tr>
+    <tr>
+    <th colspan="7">DevOps</th>
+  </tr>
+  <tr>
+    <td align="center" width=110> <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,grafana,prometheus&theme=light"> </td>
+  </tr>
+</table>
 
-En NEORIS, como Senior Software Engineer, lidero los esfuerzos de integración entre componentes y sistemas de software, garantizando una interoperabilidad fluida. Defino y hago cumplir estándares de codificación, pautas arquitectónicas y procesos de desarrollo para mantener la coherencia y escalabilidad en todos los proyectos. 
+## 🌟 Proyectos Destacados
 
-Mis responsabilidades incluyen:
+### 1. Banco de Crédito e Inversiones (BCI) en NEORIS
+- **Rol:** Líder Técnico
+- **Responsabilidades:** Integración de sistemas, definición de estándares de codificación, adopción de nuevas tecnologías.
+- **Resultados:** Mejoras significativas en la eficiencia y calidad de los proyectos.
 
-- Coordinar y liderar la integración de sistemas 🔗
-- Definir y aplicar estándares de codificación y arquitectura 📐
-- Realizar estudios de viabilidad técnica y recomendar nuevas tecnologías 🔬
-- Colaborar con gerentes de proyecto para definir el alcance, los plazos y los recursos necesarios 📅
-- Actuar como experto en técnicas, herramientas y mejores prácticas de integración de software 🧠
-- Facilitar la colaboración y comunicación entre equipos para resolver problemas y alinear soluciones técnicas 🤝
-- Liderar la evaluación y selección de APIs, bibliotecas y herramientas de terceros 🧰
-- Desarrollar y mantener documentación sobre procesos de integración, arquitecturas y dependencias 📄
-- Participar en discusiones técnicas y presentaciones con stakeholders, clientes y otras partes externas 🗣️
-- Fomentar una cultura de innovación, colaboración y aprendizaje continuo dentro del equipo 💪
+### 2. Banchile Inversiones
+- **Proyecto:** Migración de 21 portales a Angular 13.
+- **Logros:** Resolución de problemas complejos y cumplimiento de objetivos establecidos.
 
-**Tecnologías utilizadas:** Angular 14, Node.js, RXJS, Redis, MongoDB, Ubuntu, GitLab, Kafka, Kubernetes, Docker.
+### 3. Banco Estado
+- **Proyecto:** Migración del portal principal.
+- **Resultados:** Optimización del rendimiento y usabilidad.
 
-### BancoEstado - *Full Stack Developer MEAN* (Mayo 2023 - Marzo 2024)
+### 4. Red Salud UC CHRISTUS y Aligare
+- **Tecnologías:** Node.js, Express, MongoDB, AWS.
+- **Logros:** Construcción de aplicaciones robustas y eficientes.
 
-Contratado por Connectis, en BancoEstado me desempeñé como Full Stack Developer MEAN, donde mis principales funciones fueron:
+## 📊 Estadísticas de GitHub
+<div align="center">
+  <a href="https://github.com/Devig/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devig&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devig&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
 
-- Resolución de problemas informáticos 🔧
-- Preparación de documentación asociada al desarrollo de software 📄
-- Creación de microservicios en Node.js ⚙️
-- Construcción de flujos para cotización/compra de seguros automotrices 🚗
-- Soporte para la funcionalidad Click To Call 📞
-- Creación de flujos de seguros personalizados y ambulatorios (Frontend) e integración con microservicios 💻
-- Optimización de seguros Sonap y venta de seguros integrando un servicio de contratación 📑
-- Preparación de panel de monitoreo para todas las funcionalidades, junto con orquestación backend (Node.js) con Splunk 📊
-- Implementación de servicios que se comunican con Salesforce 🤝
-- Pruebas unitarias en Angular con Karma y Jasmine ✅
-- Pruebas unitarias en Node.js con Jest ✅
-
-**Proyectos:** Cotización/compra de seguros automotrices, seguros personalizados, seguros ambulatorios completos, seguros Sonap/venta de seguros, panel de monitoreo.
-
-**Tecnologías utilizadas:** Angular 13.2.4, Node.js, RXJS, MongoDB, Ubuntu, GitLab, Kafka, Kubernetes, Docker.
-
-**Servicios:** AWS Lambda, AWS S3, AWS codeCommit, AWS DynamoDB, AWS CloudWatch, AWS CloudFront.
-
-### Banco de Chile - *Full Stack Developer (MEAN-Springboot)* (Mayo 2022 - Junio 2023)
-
-Contratado por Connectis, en Banco de Chile trabajé como Full Stack Developer (MEAN-Springboot), donde mis responsabilidades incluyeron:
-
-- Resolución de problemas informáticos 🔧
-- Preparación de documentación asociada al desarrollo de software 📄
-- Migración de 21 portales de BanChile construidos en varios lenguajes (.NET, Java, Angular) a Angular 13 🔄
-- Construcción de un portal principal que engloba estos 21 portales como accesos en Angular 13 🚪
-- Migración de información con la creación de un ETL en Java SpringBoot 📤
-- Creación de microservicios con Java SpringBoot ⚙️
-- Migración de información con Spring Batch 🔄
-- Documentación con Swagger 📄
-- Pruebas unitarias en Angular con Karma y Jasmine ✅
-- Pruebas unitarias en Node.js con Jest ✅
-- Pruebas unitarias en SpringBoot con JUnit ✅
-
-**Proyecto:** Migración de 23 portales de inversión de BanChile.
-
-**Tecnologías utilizadas:** Angular 13.2.4, Java SpringBoot, Node.js, Oracle 10G, 11G, Nexus, Git, Confluence, Jira.
-
-**Servicios:** AWS Lambda, AWS S3, AWS codeCommit, AWS DynamoDB, AWS CloudWatch, AWS CloudFront.
-
-### Red de Salud UC CHRISTUS - *Full Stack Developer MEAN* (Noviembre 2021 - Abril 2022)
-
-En Red de Salud UC CHRISTUS, como Full Stack Developer MEAN, me encargué de:
-
-- Resolución de problemas informáticos 🔧
-- Preparación de documentación asociada al desarrollo de software 📄
-- Migración del portal principal de la Red de Salud UC desde Angular 6 a Angular 13 y optimización del sistema 🔄
-- Migración de información con la creación de un ETL en Node.js Serverless 📤
-- Creación de microservicios con Express Node.js (DynamoDB, AWS Lambda) ⚙️
-- Pruebas unitarias en Angular con Karma y Jasmine ✅
-- Pruebas unitarias en Node.js con Jest ✅
-
-**Tecnologías utilizadas:** Angular 13.2.4, Node.js v16.14.
+<div align="center">
+  
+## 🏆 Trofeos de GitHub
+![trophy](https://github-profile-trophy.vercel.app/?username=Devig&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+  
+</div>
