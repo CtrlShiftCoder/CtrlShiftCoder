@@ -26,11 +26,11 @@
 <div align="center">Social y Contacto</div>
 <br>
 <p align="center">
-    <a href="https://portafolio-ignaciocamiletti.netlify.app/">
+    <a href="https://portafolio-ignacio-camiletti.netlify.app/">
         <img src="https://img.shields.io/badge/PORTFOLIO-fff?style=for-the-badge&logo=googlechrome&logoColor=blue" alt="Portfolio" />
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/ignaciocamiletti">
+    <a href="https://www.linkedin.com/in/ignaciocamilettim">
         <img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
@@ -39,19 +39,19 @@
     </a>
     &nbsp; 
     <br>
-    <a href="https://twitter.com/Devig">
+    <a >
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
     &nbsp;
-    <a href="https://www.hackerrank.com/ignaciocamiletti">
+    <a href="https://www.hackerrank.com/profile/ignacioandrecam1">
         <img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Hackerrank" />
     </a>
     &nbsp;
-    <a href="https://www.researchgate.net/profile/Ignacio-Camiletti">
+    <a >
         <img src="https://img.shields.io/badge/researchgate-4c334d?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="ResearchGate" />
     </a>
     &nbsp;
-    <a href="https://docs.google.com/document/d/15PXlkE-0aQZxIheTUT4qcEKU6Oy2F5wPQ3AtoF8yIOY/edit?usp=sharing">
+    <a href="https://drive.google.com/file/d/1bF2-bwKKIjKrIDRCFUf3I6H_soKqZJqP/view?usp=drive_link">
         <img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Resume" />
     </a>
     &nbsp;
