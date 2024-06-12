@@ -103,13 +103,344 @@
 
 ## 🎓 Certificaciones
 
-- Arquitectura de Software 🏛️
-- Ingeniería de Software ⚙️
-- JavaScript (Intermedio) 🟨
-- DevOps, APIs y Microservicios 🔄
-- Power BI (Visualizaciones e Informes) 📊
-- Scrum Master Certified (SMC™) ✅
-- Professional Scrum Master™ I (PSM I) ✅
+# Certificaciones
+
+### Udemy
+![Logotipo de Udemy](UC-0db5a56d-3941-4146-85a7-a730b7c05f8e.pdf)
+**Fundamentos en DevOps, APIs y Arquitectura de Microservicios**  
+**Expedición:** Jun. 2024 · **Vencimiento:** Jun. 2034  
+**ID de la credencial:** UC-0db5a56d-3941-4146-85a7-a730b7c05f8e
+
+### Udemy
+![Logotipo de Udemy](UC-97993448-2925-4998-bf4b-7f61f5ef72ab.pdf)
+**Arquitectura Software Moderna: DDD, Eventos, Microservicios**  
+**Expedición:** Jun. 2024 · **Vencimiento:** Jul. 2034  
+**ID de la credencial:** UC-97993448-2925-4998-bf4b-7f61f5ef72ab  
+**Aptitudes:** Arquitectura orientada a servicios (SOA)
+
+### Udemy
+![Logotipo de Udemy](UC-2395149b-776c-4d8d-ae8a-079dc64187c3.pdf)
+**Microservicios: Cómo migrar de monolitos a microservicios**  
+**Expedición:** May. 2024 · **Vencimiento:** May. 2034  
+**ID de la credencial:** UC-2395149b-776c-4d8d-ae8a-079dc64187c3  
+**Aptitudes:** Servicios web de RESTful · Servicios web
+
+### HackerRank
+![Logotipo de HackerRank](https://www.hackerrank.com/certificates/99a73ee173cc)
+**Angular Intermediate**  
+**Expedición:** Abr. 2024 · **Vencimiento:** Abr. 2034  
+**ID de la credencial:** 99a73ee173cc  
+**Aptitudes:** Angular
+
+### Udemy
+![Logotipo de Udemy](certificado.JPG)
+**Splunk - De cero a experto**  
+**Expedición:** Mar. 2024 · **Vencimiento:** Mar. 2034  
+**Aptitudes:** Splunk · BigData
+
+### NEORIS
+![Logotipo de NEORIS](CloudComputing.pdf)
+**Cloud Computing**  
+**Expedición:** Mar. 2024 · **Vencimiento:** Mar. 2034  
+**Aptitudes:** Cloud Computing
+
+### Udemy
+![Logotipo de Udemy](certificado.pdf)
+**Comienza con Kafka: Curso de Apache Kafka desde cero**  
+**Expedición:** Mar. 2024 · **Vencimiento:** Mar. 2034  
+**ID de la credencial:** UC-17974572-9506-437e-bf21-16800a35d031  
+**Aptitudes:** Apache Kafka
+
+### NEORIS
+![Logotipo de NEORIS](Github Security.pdf)
+**Github Advanced Security**  
+**Expedición:** Mar. 2024 · **Vencimiento:** Mar. 2034  
+**Aptitudes:** Github Advanced Security · Github Security
+
+### Google Digital Academy (Skillshop)
+![Logotipo de Google Digital Academy (Skillshop)](google_analitycs.JPG)
+**Google Analytics Certification**  
+**Expedición:** Mar. 2024 · **Vencimiento:** Mar. 2025  
+**ID de la credencial:** 98002508
+
+### HackerRank
+![Logotipo de HackerRank](javascript_intermediate certificate.pdf)
+**Javascript Intermediate**  
+**Expedición:** Mar. 2024 · **Vencimiento:** Mar. 2034  
+**ID de la credencial:** 844e06a1e2cc
+
+### Project Management Institute
+![Logotipo de Project Management Institute](1709782134720.jfif)
+**Liderazgo con Innovación**  
+**Expedición:** Mar. 2024 · **Vencimiento:** Ene. 2034  
+**ID de la credencial:** fadda3fa4b39a8857574ec8c094536d027b53bf39e0fbe171324120f60a49332  
+**Aptitudes:** Gestión de la innovación
+
+### NEORIS
+![Logotipo de NEORIS](iso.JPG)
+**Proceso de Desarrollo de Software (alineado a ISO 9001:2015)**  
+**Expedición:** Mar. 2024 · **Vencimiento:** Mar. 2034
+
+### Desafío Latam
+![Logotipo de Desafío Latam](certificate-483895919.jpg)
+**Shut Up and StartUp**  
+**Expedición:** Mar. 2024 · **Vencimiento:** Mar. 2034  
+**ID de la credencial:** 1giacjqpih  
+**Aptitudes:** Educación emprendedora · Estrategia empresarial · Gestión de la innovación · Startup
+
+### HackerRank
+![Logotipo de HackerRank](software_engineer certificate.pdf)
+**Software Engineer**  
+**Expedición:** Mar. 2024 · **Vencimiento:** Mar. 2034  
+**ID de la credencial:** d722dec18a5a
+
+### HackerRank
+![Logotipo de HackerRank](software_engineer_intern certificate.pdf)
+**Software Engineer Intern**  
+**Expedición:** Mar. 2024 · **Vencimiento:**
+
+### Fundamentos en DevOps, APIs y Arquitectura de Microservicios 
+**Udemy**  
+Expedición: jun. 2024 · Vencimiento: jun. 2034  
+ID de la credencial: UC-0db5a56d-3941-4146-85a7-a730b7c05f8e  
+[Mostrar credencial](UC-0db5a56d-3941-4146-85a7-a730b7c05f8e.pdf)  
+
+### Arquitectura Software Moderna: DDD, Eventos, Microservicios
+**Udemy**  
+Expedición: jun. 2024 · Vencimiento: jul. 2034  
+ID de la credencial: UC-97993448-2925-4998-bf4b-7f61f5ef72ab  
+[Mostrar credencial](UC-97993448-2925-4998-bf4b-7f61f5ef72ab.pdf)  
+**Aptitudes**: Arquitectura orientada a servicios (SOA)
+
+### Microservicios: Cómo migrar de monolitos a microservicios
+**Udemy**  
+Expedición: may. 2024 · Vencimiento: may. 2034  
+ID de la credencial: UC-2395149b-776c-4d8d-ae8a-079dc64187c3  
+[Mostrar credencial](UC-2395149b-776c-4d8d-ae8a-079dc64187c3.pdf)  
+**Aptitudes**: Servicios web de RESTful · Servicios web
+
+### Angular Intermediate
+**HackerRank**  
+Expedición: abr. 2024 · Vencimiento: abr. 2034  
+ID de la credencial: [99a73ee173cc](https://www.hackerrank.com/certificates/99a73ee173cc)  
+[Mostrar credencial](https://www.hackerrank.com/certificates/99a73ee173cc)  
+**Aptitudes**: Angular
+
+### Splunk - De cero a experto
+**Udemy**  
+Expedición: mar. 2024 · Vencimiento: mar. 2034  
+[Mostrar credencial](certificado.JPG)  
+**Aptitudes**: Splunk · BigData
+
+### Cloud Computing
+**NEORIS**  
+Expedición: mar. 2024 · Vencimiento: mar. 2034  
+[Mostrar credencial](CloudComputing.pdf)  
+**Aptitudes**: Cloud Computing
+
+### Comienza con Kafka: Curso de Apache Kafka desde cero
+**Udemy**  
+Expedición: mar. 2024 · Vencimiento: mar. 2034  
+ID de la credencial: UC-17974572-9506-437e-bf21-16800a35d031  
+[Mostrar credencial](UC-17974572-9506-437e-bf21-16800a35d031.pdf)  
+**Aptitudes**: Apache Kafka
+
+### Github Advanced Security
+**NEORIS**  
+Expedición: mar. 2024 · Vencimiento: mar. 2034  
+[Mostrar credencial](Github Security.pdf)  
+**Aptitudes**: Github Advanced Security · Github Security
+
+### Google Analytics Certification
+**Google Digital Academy (Skillshop)**  
+Expedición: mar. 2024 · Vencimiento: mar. 2025  
+ID de la credencial: 98002508  
+[Mostrar credencial](google_analitycs.JPG)
+
+### Javascript Intermediate
+**HackerRank**  
+Expedición: mar. 2024 · Vencimiento: mar. 2034  
+ID de la credencial: 844e06a1e2cc  
+[Mostrar credencial](javascript_intermediate certificate.pdf)
+
+### Liderazgo con Innovación
+**Project Management Institute**  
+Expedición: mar. 2024 · Vencimiento: ene. 2034  
+ID de la credencial: fadda3fa4b39a8857574ec8c094536d027b53bf39e0fbe171324120f60a49332  
+[Mostrar credencial](1709782134720.jfif)  
+**Aptitudes**: Gestión de la innovación
+
+### Proceso de Desarrollo de Software (alineado a ISO 9001:2015)
+**NEORIS**  
+Expedición: mar. 2024 · Vencimiento: mar. 2034  
+[Mostrar credencial](iso.JPG)
+
+### Shut Up and StartUp
+**Desafío Latam**  
+Expedición: mar. 2024 · Vencimiento: mar. 2034  
+ID de la credencial: 1giacjqpih  
+**Aptitudes**: Educación emprendedora · Estrategia empresarial · Gestión de la innovación · Startup  
+[Mostrar credencial](certificate-483895919.jpg)
+
+### Software Engineer
+**HackerRank**  
+Expedición: mar. 2024 · Vencimiento: mar. 2034  
+ID de la credencial: d722dec18a5a  
+[Mostrar credencial](software_engineer certificate.pdf)
+
+### Software Engineer Intern
+**HackerRank**  
+Expedición: mar. 2024 · Vencimiento: mar. 2034  
+ID de la credencial: 228d723a50a4  
+[Mostrar credencial](software_engineer_intern certificate.pdf)
+
+### Business Analytics Essentials
+**Universidad de Chile**  
+Expedición: ene. 2024  
+[Mostrar credencial](Analitica.pdf)  
+**Aptitudes**: Analisis Prescriptivo · Analisis Descriptivo · Análisis predictivo
+
+### Data Science
+**Universidad de Chile**  
+Expedición: ene. 2024  
+[Mostrar credencial](DataScience.pdf)  
+**Aptitudes**: Big data · Centro de datos · openSource · Computación en la nube
+
+### English for Developers & IT Professionals
+**Desafío Latam**  
+Expedición: ene. 2024 · Vencimiento: dic. 2034  
+[Mostrar credencial](Ignacio Camiletti - 2024-01-07.pdf)
+
+### Machine Learning with Python Essentials
+**Universidad de Chile**  
+Expedición: ene. 2024  
+[Mostrar credencial](machineLearning.pdf)  
+**Aptitudes**: Python
+
+### Power Bi
+**Universidad de Chile**  
+Expedición: ene. 2024 · Vencimiento: ene. 2032  
+[Mostrar credencial](power bi.pdf)  
+**Aptitudes**: power bi
+
+### Como tomar Decisiones en el trabajo
+**LinkedIn**  
+Expedición: dic. 2023 · Vencimiento: dic. 2032  
+ID de la credencial: c920aa21803fdb8d5967b9a19859da647048fa51ab65a72110092adff02da254  
+[Mostrar credencial](CertificadoDeFinalizacion_Como tomar decisiones.pdf)
+
+### Introduction to Monitoring AWS
+**Datadog**  
+Expedición: dic. 2023  
+ID de la credencial: wcs77mrc3c  
+[Mostrar credencial]
+
+### Introduction to Monitoring Kubernetes
+**Datadog**  
+Expedición: dic. 2023  
+ID de la credencial: wodbae5jdd  
+[Mostrar credencial]
+
+### CSS
+**HackerRank**  
+Expedición: oct. 2023 · Vencimiento: oct. 2033  
+ID de la credencial: eb788b1639fb  
+[Mostrar credencial]
+
+### Node Js Intermediate
+**HackerRank**  
+Expedición: oct. 2023 · Vencimiento: oct. 2033  
+ID de la credencial: 08f362fdce91  
+[Mostrar credencial]
+
+### PYTHON BASIC
+**HackerRank**  
+Expedición: oct. 2023 · Vencimiento: dic. 2033  
+ID de la credencial: ac2d8b04b824  
+[Mostrar credencial]
+
+### Rest Api Intermediate
+**HackerRank**  
+Expedición: oct. 2023 · Vencimiento: oct. 2033  
+ID de la credencial: 1b00551ab2cb  
+[Mostrar credencial]
+
+### SQL Basic
+**HackerRank**  
+Expedición: oct. 2023 · Vencimiento: oct. 2033  
+ID de la credencial: 6cf40ecbb2d0  
+[Mostrar credencial]
+
+### SQL Intermediate
+**HackerRank**  
+Expedición: oct. 2023 · Vencimiento: oct. 2033  
+ID de la credencial: 71522571d84c  
+[Mostrar credencial]
+
+### Arquitectura de Software
+**LinkedIn**  
+Expedición: ene. 2023 · Vencimiento: ene. 2028  
+ID de la credencial: 8d34eeb3ea36c70afdab745e57c69ba2633a380577d13f7b3716d5bd51086295  
+[Mostrar credencial]
+
+### Introducción a las habilidades profesionales en análisis de datos
+**Microsoft**  
+Expedición: ene. 2023 · Vencimiento: ene. 2030  
+ID de la credencial: 45d2bf1a4fc3  
+[Mostrar credencial](certificadoMicrosoft.pdf)
+
+### Introducción a la seguridad de TI
+**Microsoft**  
+Expedición: ene. 2023 · Vencimiento: ene. 2030  
+ID de la credencial: d8b0414f50a4  
+[Mostrar credencial](MicrosoftSecurity.pdf)
+
+### Liderazgo con inteligencia emocional
+**LinkedIn**  
+Expedición: ene. 2023 · Vencimiento: ene. 2028  
+ID de la credencial: 325fa1f14474f7c9e47a7d3b5c94708e1a7e0244d69cdbdb553d5dc5d58c214e  
+[Mostrar credencial](certificateLeadership.pdf)
+
+### Visualización de datos con Seaborn y Matplotlib
+**LinkedIn**  
+Expedición: ene. 2023 · Vencimiento: ene. 2028  
+ID de la credencial: 601f8335db4b46d8b8c92a8c2b0b6d23b5371d29f0ec7cf13a13865e758f5ba9  
+[Mostrar credencial](dataVisualization.pdf)
+
+### Construir páginas web con Bootstrap 4
+**LinkedIn**  
+Expedición: sep. 2022 · Vencimiento: sep. 2032  
+ID de la credencial: 3828c9ebfa0fce1da7157b02e22dc2839ebd35b13f9b02854cf92be2a1d2c9ec  
+[Mostrar credencial](bootstrap.pdf)
+
+### Excel Básico
+**HackerRank**  
+Expedición: jul. 2022 · Vencimiento: jul. 2032  
+ID de la credencial: 0cddca432ea9  
+[Mostrar credencial](excel_basic.pdf)
+
+### Programador Jr Web Developer
+**Desafío Latam**  
+Expedición: jul. 2022 · Vencimiento: jul. 2032  
+[Mostrar credencial](jr_web.pdf)
+
+### Curso Full Stack JavaScript
+**Desafío Latam**  
+Expedición: jun. 2022 · Vencimiento: jun. 2032  
+[Mostrar credencial](fullstack.pdf)
+
+### Python para principiantes
+**Microsoft**  
+Expedición: abr. 2022 · Vencimiento: abr. 2030  
+ID de la credencial: 1234567890  
+[Mostrar credencial](python_beginners.pdf)
+
+### Programación con JavaScript
+**Microsoft**  
+Expedición: abr. 2022 · Vencimiento: abr. 2030  
+ID de la credencial: abcdefghij  
+[Mostrar credencial](js_programming.pdf)
+
 
 ## 🚀 Extracto
 
