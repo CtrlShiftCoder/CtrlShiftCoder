@@ -1,4 +1,4 @@
-# 👋 ¡Hola a todos! Soy Ignacio Camiletti (Devig) 👨‍💻
+# 👋 ¡Hola a todos! Soy Ignacio Camiletti (DEVIM) 👨‍💻
 
 <div align="center">
     <img src="https://img.icons8.com/fluency/30/000000/star.png" />
