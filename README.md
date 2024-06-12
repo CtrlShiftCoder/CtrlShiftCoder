@@ -313,7 +313,7 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
   </tr>
   <tr>
     <td align="center" width=110> <img height=60 src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="Power BI" /> </td>
-    <td align="center" width=110> <img height=60 src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svgg"alt="Kubernetes" /> </td>
+    <td align="center" width=110> <img height=60 src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg"alt="Kubernetes" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" /> </td>
