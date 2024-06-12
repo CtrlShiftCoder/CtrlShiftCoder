@@ -249,6 +249,11 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zeplin/zeplin-original.svg" alt="Zeplin" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" /> </td>
     </tr>
     <tr>
       <td align="center">Heroku</td>
@@ -259,6 +264,11 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
       <td align="center">VSCode</td>
       <td align="center">PyCharm</td>
       <td align="center">IntelliJ</td>
+      <td align="center">Visual Studio</td>
+      <td align="center">Netlify</td>
+      <td align="center">Bitbucket</td>
+      <td align="center">Zeplin</td>
+      <td align="center">Postman</td>
     </tr>
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" /> </td>
