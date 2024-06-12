@@ -264,18 +264,18 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" /> </td>
-    <td align="center" width=110> <img height=60 src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/zeplinio/index.html&backText=Return+to+VectorLogoZone" alt="Zeplin" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" /> </td>
+    <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" /> </td>
   </tr>
   <tr>
     <td align="center">IntelliJ</td>
     <td align="center">Visual Studio</td>
     <td align="center">Netlify</td>
     <td align="center">Bitbucket</td>
-    <td align="center">Zeplin</td>
     <td align="center">Postman</td>
     <td align="center">Vim</td>
+    <td align="center">AWS</td>
   </tr>
   <tr>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" /> </td>
@@ -283,7 +283,7 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" /> </td>
-    <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" /> </td>
+    <td alignalign="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" /> </td>
   </tr>
   <tr>
@@ -302,6 +302,7 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" alt="Drupal" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" alt="Magento" /> </td>
+    <td align="center" width=110> <img height=60 src="https://cdn.iconscout.com/icon/free/png-512/prestashop-3-569468.png" alt="PrestaShop" /> </td>
   </tr>
   <tr>
     <td align="center">Azure</td>
@@ -310,10 +311,11 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
     <td align="center">WordPress</td>
     <td align="center">Drupal</td>
     <td align="center">Magento</td>
+    <td align="center">PrestaShop</td>
   </tr>
   <tr>
     <td align="center" width=110> <img height=60 src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="Power BI" /> </td>
-    <td align="center" width=110> <img height=60 src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg"alt="Kubernetes" /> </td>
+    <td align="center" width=110> <img height=60 src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg" alt="Kubernetes" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" /> </td>
