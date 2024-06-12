@@ -175,6 +175,37 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
 
   <!-- Aquí van los frameworks y librerías -->
 
+   <table>
+    <thead>
+      <tr>
+        <th colspan="4">Cloud Platforms</th>
+        <th colspan="5">Frameworks & Libraries</th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftazure/microsoftazure-original.svg" alt="Azure" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" alt="Magento" /> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prestashop/prestashop-original.svg" alt="PrestaShop" /> </td>
+    </tr>
+    <tr> 
+      <td align="center">AWS</td>
+      <td align="center">Azure</td>
+      <td align="center">Google Cloud Platform</td>
+      <td align="center">Docker</td>
+      <td align="center">Angular</td>
+      <td align="center">jQuery</td>
+      <td align="center">Bootstrap</td>
+      <td align="center">Magento</td>
+      <td align="center">PrestaShop</td>
+    </tr>
+  </table>
+
   <table>
     <thead>
       <tr>
