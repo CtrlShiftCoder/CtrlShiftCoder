@@ -191,7 +191,7 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" alt="Magento" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prestashop/prestashop-original.svg" alt="PrestaShop" /> </td>
+      <td align="center" width=110> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Prestashop.svg" alt="PrestaShop" /> </td>
     </tr>
     <tr> 
       <td align="center">AWS</td>
