@@ -313,7 +313,7 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
   </tr>
   <tr>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg" alt="Power BI" /> </td>
-    <td align="center" width=110> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg"alt="Kubernetes" /> </td>
+    <td align="center" width=110> <img height=60 src="https://wikitech.wikimedia.org/wiki/File:Kubernetes-icon-color.svg"alt="Kubernetes" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" /> </td>
