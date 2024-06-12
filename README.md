@@ -63,8 +63,6 @@
     <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
     <img src="https://img.shields.io/badge/Hobby-Coding-blue" />
     <img src="https://img.shields.io/badge/Programming-Python%2C%20JavaScript-blue" />
-    <img src="https://img.shields.io/badge/Lives-Nairobi-blue" />
-    <img src="https://img.shields.io/badge/Language-English%2C%20Swahili-blue" />
 </p>
 <br>
 
