@@ -234,6 +234,7 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
 
   <!-- Aquí van las herramientas -->
 
+
 <table>
   <thead>
     <tr>
@@ -282,6 +283,8 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" /> </td>
+    <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" /> </td>
+    <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" /> </td>
   </tr>
   <tr>
     <td align="center">Google Cloud</td>
@@ -289,17 +292,20 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
     <td align="center">Jenkins</td>
     <td align="center">Jupyter</td>
     <td align="center">Jira</td>
+    <td align="center">Kubernetes</td>
+    <td align="center">Terraform</td>
   </tr>
   <tr>
-    <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" /> </td>
+    <td align="center" width=110> <img height=60 src="httpshttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud Platform" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" alt="Drupal" /> </td>
-    <td align="center" width=110> <img height=60 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" alt="Magento" /> </td>
-
+    <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" alt="Magento" /> </td>
   </tr>
   <tr>
+    <td align="center">Azure</td>
+    <td align="center">AWS</td>
     <td align="center">Google Cloud Platform</td>
     <td align="center">WordPress</td>
     <td align="center">Drupal</td>
@@ -324,6 +330,7 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
     <td align="center">Grunt</td>
   </tr>
 </table>
+
 
 
 </div>
