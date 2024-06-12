@@ -282,8 +282,7 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" /> </td>
-    <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="CodePen" /> </td>
-    <td align="center"> </td>
+    <td align="center" width=110> <img height=60 src="https://blog.codepen.io/wp-content/uploads/2022/01/codepen-wordmark-display-inside-black@10x.png" alt="CodePen" /> </td>
   </tr>
   <tr>
     <td align="center">Google Cloud</td>
@@ -292,7 +291,6 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
     <td align="center">Jupyter</td>
     <td align="center">Jira</td>
     <td align="center">CodePen</td>
-    <td align="center"> </td>
   </tr>
   <tr>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" /> </td>
@@ -315,7 +313,7 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
   </tr>
   <tr>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg" alt="Power BI" /> </td>
-    <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" /> </td>
+    <td align="center" width=110> <img height=60 src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg"alt="Kubernetes" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" /> </td>
