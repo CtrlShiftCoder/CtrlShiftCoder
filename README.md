@@ -132,7 +132,7 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
   <table>
     <thead>
       <tr>
-        <th colspan="7">Languages</th>
+        <th colspan="7">Lenguajes</th>
       </tr>
     </thead>
     <tr>
@@ -209,7 +209,7 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
   <table>
     <thead>
       <tr>
-        <th colspan="7">Frameworks & Libraries</th>
+        <th colspan="7">Frameworks & Librerías</th>
       </tr>
     </thead>
     <tr>
@@ -234,7 +234,7 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
 
   <!-- Aquí van las herramientas -->
 
-  <table>
+<table>
     <thead>
       <tr>
         <th colspan="7">Tools</th>
@@ -301,9 +301,10 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="Gulp" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" alt="Grunt" />
+<td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" /> </td>
+<td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" alt="Gulp" /> </td>
+<td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" alt="Grunt" />
+
 </td>
     </tr>
     <tr>
@@ -316,6 +317,7 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
       <td align="center">Grunt</td>
     </tr>
   </table>
+
 </div>
 
 
