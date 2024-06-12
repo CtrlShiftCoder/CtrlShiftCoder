@@ -89,7 +89,7 @@
     - MERN Stack (MongoDB, Express, React, Node.js) ⚛️
     - MEAN Stack (MongoDB, Express, Angular, Node.js) 🅰️
     - Spring Boot (Java) 🍃
-- Análisis de datos con **Python** 🐍
+    - - Análisis de datos con **Python** 🐍
 - Experiencia en la nube con **AWS** ☁️ y **Azure** 🔷
 - Experto en **BI Analyst** 📊
 - Experiencia en metodologías ágiles como **SCRUM** 🏃‍♂️
@@ -127,7 +127,7 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
 
 ## 🚀 Habilidades Técnicas
 
-<table align="center" style="width: 100%;">
+<table align="center" style="width: 100%;" class="markdown-body table">
   <tr>
     <th colspan="7" style="font-size: 1.5em;">Lenguajes de Programación</th>
   </tr>
@@ -198,3 +198,5 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
 ![trophy](https://github-profile-trophy.vercel.app/?username=Devig&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
   
 </div>
+
+
