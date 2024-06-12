@@ -99,7 +99,7 @@
 ## 🗣️ Idiomas
 
 - Español (Nativo) 🌎
-- Inglés (Básico) 🇬🇧
+- Inglés (A2) 🇬🇧
 
 ## 🎓 Certificaciones
 
