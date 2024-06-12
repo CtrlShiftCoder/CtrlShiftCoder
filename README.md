@@ -339,26 +339,143 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
 
 
 
+# Proyectos Destacados
+
+## 1. Implementación de Sistema de Notificaciones en Tiempo Real - Banco de Crédito e Inversiones (BCI) Chile
+- **Rol:** Líder Técnico de Integración
+- **Descripción:** Lideré la exitosa implementación de un sistema de notificaciones en tiempo real para importantes clientes como Budda.com, Cencosud, Colun Ltda y otros. Integré tecnologías avanzadas como Apache Kafka y RESTful API, garantizando una solución robusta y escalable. Desde la recepción de eventos de Kafka hasta la gestión de reintentos para asegurar la confiabilidad del servicio, mi enfoque fue integral.
+- **Logros Destacados:** Desarrollé consumidores en microservicios para escuchar eventos de temas específicos de Kafka, asegurando la correcta conexión a los temas requeridos según las necesidades del proyecto. Implementé validaciones y transformaciones de datos para preparar la información de movimiento antes de notificar a los clientes. Además, diseñé y desarrollé una arquitectura de reintentos escalonados para maximizar la entrega de notificaciones, y desarrollé lógica para almacenar movimientos en una colección de base de datos "DLQ" cuando se alcanza el número máximo de reintentos.
+- **Clientes:** Budda.com, Cencosud, Colun Ltda, Shinkansen SPA, OrionxSpa, Vita Solutions, Soc Importadora, Alimentos y Frutos SA, Fugiro, Easy Retail, Copec.
+- **Tecnologías Clave:** Apache Kafka, RESTful API, Java EE, Splunk, MongoDB, Angular, Docker, Kubernetes.
+
+## 2. Módulo de Seguro Personalizado - BancoEstado Seguros
+- **Rol:**  Desarrollador Full-Stack Asociada con BancoEstado
+- **Descripción:** Desarrollé un robusto Módulo de Seguro Personalizado utilizando tecnologías de vanguardia como Angular para la interfaz de usuario y Node.js con Express para el backend. Este módulo ofrece una experiencia excepcional al usuario, con funcionalidades altamente personalizables que van desde la gestión de citas médicas hasta la administración de reclamaciones. Me aseguré de priorizar la seguridad y la protección de datos en todo momento.
+- **Logros Destacados:** Diseñé una interfaz de usuario intuitiva con Angular y desarrollé un backend potente y eficiente con Node.js y Express. Además, implementé medidas robustas de seguridad y protección de datos para garantizar la confidencialidad y la integridad de la información del usuario.
+- **Tecnologías Clave:** Angular, Node.js, Express, MongoDB.
+
+## 3. Proyecto de Chat en Tiempo Real - Live ChatIOBox
+- **Rol:** Desarrollador Full-Stack
+- **Descripción:** Desarrollé una aplicación de chat en tiempo real con WebSocket y Angular para una experiencia dinámica del usuario. Utilicé Spring Boot para el backend y MongoDB para la persistencia de datos. Implementé seguridad con Spring Security y JWT.
+- **Tecnologías Clave:** Spring Boot, Angular, WebSocket, MongoDB, Spring Security, JWT.
+
+## 4. Modelo de Regresión Lineal para Traducción Automática de Texto - Amazon SageMaker
+- **Rol:** Desarrollador de Aprendizaje Automático
+- **Descripción:** Desarrollé un modelo de regresión lineal para traducción automática de texto, utilizando Python, Scikit-learn y AWS SageMaker. Este proyecto demuestra la fusión de NLP y ML para una eficiente traducción de texto.
+- **Logros Destacados:** Logré implementar un sistema escalable y eficiente utilizando tecnologías avanzadas de aprendizaje automático y la plataforma de AWS SageMaker.
+- **Tecnologías Clave:** Python, Scikit-learn, NLTK, AWS SageMaker.
+
+## 5. Alquimia Del Alma: Despertando el Espíritu Interior
+- **Rol:** Desarrollador Full-Stack
+- **Descripción:** Alquimia Del Alma es un espacio digital dedicado a llevar la luz y la sanación a través de terapias esotéricas. Desarrollado con tecnologías como Angular, Node y Express, ofrece una experiencia fluida y envolvente. Desde lecturas de tarot hasta terapias de reiki, cada servicio está diseñado para nutrir el alma y elevar el espíritu hacia nuevas alturas de conciencia y bienestar.
+- **Aptitudes:** Angular, Express.js, CSS Flexbox, HTML5, Angular 13, Node.js, Tailwind CSS.
+
+## 6. Panel de Monitoreo Splunk Contratación y Cotización Seguro Automotriz
+- **Rol:** Desarrollador Full-Stack
+- **Descripción:** Implementé un avanzado Panel de Monitoreo utilizando Splunk para Banco Estado Seguros. Configuré el panel para varios endpoints, asegurando la correcta visualización de la información clave en tiempo real. Este panel ofrece una visión completa y detallada de las operaciones, respaldando la supervisión proactiva y la identificación rápida de incidencias.
+- **Aptitudes:** MongoDB, Node.js.
+
+## 7. Creación Módulo Contratación Seguro Automotriz
+- **Rol:** Desarrollador Full-Stack
+- **Descripción:** El desafío principal de este proyecto es la implementación de un módulo completo de contratación de seguro automotriz, destinado a ofrecer a los usuarios una experiencia fluida y segura al momento de adquirir cobertura para sus vehículos. Se desarrollará con un enfoque centrado en el usuario, priorizando la usabilidad y la accesibilidad.
+- **Aptitudes:** Angular 13, MongoDB, Express.js, Node.js.
+
+## 8. Panel de monitoreo Splunk Contratación y Cotización Seguro Automotriz
+- **Descripción:** Implementé un avanzado Panel de Monitoreo utilizando Splunk para Banco Estado Seguros. Configuré el panel para varios endpoints, asegurando la correcta visualización de la información clave en tiempo real. Este panel ofrece una visión completa y detallada de las operaciones, respaldando la supervisión proactiva y la identificación rápida de incidencias.
+- **Aptitudes:** MongoDB, Node.js.
+
+## 9. Apoyo Click To Call
+- **Rol:** Desarrollador Full-Stack
+- **Descripción:** Dentro del proyecto Click-to-Call, lideré la iniciativa para mejorar y organizar las funcionalidades y estilos en el front-end, con el objetivo de facilitar la acción de contacto con un ejecutivo. Implementé tecnologías como Angular, Express y Node.js, trabajando en el desarrollo de soluciones que hicieron más intuitivo y efectivo el proceso de comunicación con el equipo ejecutivo, optimizando así la experiencia del usuario y promoviendo una mayor interacción con la plataforma.
+- **Aptitudes:** Angular 13, MongoDB, Express.js, Node.js.
+
+## 10. Panel de monitoreo Splunk Click to Call Banco Estado Seguros
+- **Rol:** Desarrollador Full-Stack
+- **Descripción:** Implementé un avanzado Panel de Monitoreo utilizando Splunk Click to Call para Banco Estado Seguros. Configuré el panel para varios endpoints, asegurando la correcta visualización de la información clave en tiempo real. Este panel ofrece una visión completa y detallada de las operaciones, respaldando la supervisión proactiva y la identificación rápida de incidencias.
+- **Aptitudes:** MongoDB, Node.js.
+
+## 11. API Geolocalización Chile
+- **Rol:** Desarrollador Full-Stack
+- **Descripción:** La API de Geolocalización de Chile proporciona acceso a datos geográficos detallados de Chile, incluyendo información sobre regiones, provincias y comunas. Desarrollada para ofrecer una solución robusta y precisa para la obtención de datos geoespaciales, es una fuente confiable y completa de información geográfica de Chile.
+- **Aptitudes:** Node.js, Express.js.
+
+## 12. Dialogix ChatGPT y DALL-E
+- **Rol:** Desarrollador Full-Stack
+- **Descripción:** Este proyecto combina las tecnologías ChatGPT y DALL-E para ofrecer una experiencia única de chat y generación de imágenes. Desarrollado con React y Tailwind CSS, cuenta con una interfaz de usuario intuitiva y estéticamente atractiva. Además, se integran funcionalidades como React Icons y React Markdown para mejorar la experiencia del usuario.
+- **Tecnologías Clave:** React.js, Tailwind CSS.
+
+## 13. Portafolio
+- **Rol:** Desarrollador Full-Stack
+- **Descripción:** Este portafolio ofrece una experiencia dinámica y receptiva desarrollada con React. Utilizando Tailwind CSS para el diseño, se logra un aspecto moderno y estilizado. Se incluyen herramientas como React Icons y React Markdown para añadir funcionalidades adicionales y una presentación de contenido dinámica y atractiva.
+- **Tecnologías Clave:** React.js, Express.js, Node.js.
+
+## 14. Creación Módulo Cotización Seguro Automotriz
+- **Rol:** Desarrollador Full-Stack
+- **Descripción:** Desarrollo de un módulo completo de cotización de seguro automotriz en colaboración con BancoEstado. Se utiliza Angular 13 y se implementa Redux para el manejo de la información.
+- **Tecnologías Clave:** Angular 13, MongoDB, Express.js, Node.js.
+
+## 15. Migración 23 Portales Banchile Inversiones
+- **Rol:** Desarrollador Full-Stack
+- **Descripción:** Proyecto de migración de portales internos para Banchile Inversiones. Se desarrolla con Angular 13 y se integran servicios Java 1.8 Spring Boot. Se implementa una capa de seguridad adicional en Node.js y se realizan integraciones con Microsoft Power Apps.
+- **Tecnologías Clave:** GitLab, Angular 13, Paperless, WSDL, SOAP, Java EE, Node.js.
+
+## 16. Migración Portal Principal UC CHRISTUS
+- **Rol:** Desarrollador Full-Stack
+- **Descripción:** Desarrollo completo de portal web con Angular 13 para el frontend y DynamoDB como base de datos NoSQL. Se utilizan funciones Lambda de Node.js para el backend y se emplea Ionic para el diseño y estilos de la aplicación. Se realizan integraciones con servicios de telemedicina.
+- **Tecnologías Clave:** Python, Node.js, Angular 13, AWS Lambda, Amazon DynamoDB, Amazon CloudFront.
+
+## 17. Candidaturas Online
+- **Rol:** Desarrollador Full-Stack
+- **Descripción:** Desarrollo de un sistema integral de postulaciones en línea para Servel, utilizando tecnologías modernas como Azure, Node.js, Nginx, PostgreSQL y Redis. El sistema cuenta con alrededor de 30 perfiles o roles diferentes para abordar la complejidad del proceso de postulación.
+- **Tecnologías Clave:** Node.js, Nginx, PostgreSQL, Redis, Microsoft Azure.
+
+## 18. Creación Módulo Contratación Seguro Automotriz
+- **Rol:** Desarrollador Full-Stack
+- **Descripción:** El desafío principal de este proyecto es la implementación de un módulo completo de contratación de seguro automotriz, destinado a ofrecer a los usuarios una experiencia fluida y segura al momento de adquirir cobertura para sus vehículos. Se desarrollará con un enfoque centrado en el usuario, priorizando la usabilidad y la accesibilidad.
+- **Aptitudes:** Angular 13, MongoDB, Express.js, Node.js.
 
 
-## 🌟 Proyectos Destacados
+### 19. Cencosud BICencosud BI
+- **Rol:** Desarrollador Full-Stack
+- **Asociado con:** Aligare
+- **Descripción:** Desarrollo de un robusto módulo de Business Intelligence para Cencosud, abarcando análisis de productos, órdenes de compra y gestión de medios de pago. Tecnologías: Java, Power BI, Azure. Se implementó un proceso ETL para la actualización de datos y una integración con servicios en Node.js y front-end en Angular 6 para personalización de reportes.
+- **Aptitudes:** Java EE, Angular, Node.js, Microsoft Power BI, Amazon DynamoDB, AWS Lambda
 
-### 1. Banco de Crédito e Inversiones (BCI) en NEORIS
-- **Rol:** Líder Técnico
-- **Responsabilidades:** Integración de sistemas, definición de estándares de codificación, adopción de nuevas tecnologías.
-- **Resultados:** Mejoras significativas en la eficiencia y calidad de los proyectos.
+### 20. DJI e-commerce Drones Dji
+- **Rol:** Desarrollador Full-Stack
+- **Asociado con:** Aligare
+- **Descripción:** Migración integral de tiendas virtuales, utilizando Magento 2 debido a su sólida comunidad y funcionalidades avanzadas. Se emplearon tecnologías como PHP, Java EE y la infraestructura de AWS para alojamiento y gestión. Se destacó la implementación de un sistema de reportes y alarmas para mejorar la experiencia del usuario.
+- **Aptitudes:** Magento, PHP, Java EE, AWS Lambda, Amazon EC2, Amazon Virtual Private Cloud (VPC), Amazon CloudFront, Amazon S3
 
-### 2. Banchile Inversiones
-- **Proyecto:** Migración de 21 portales a Angular 13.
-- **Logros:** Resolución de problemas complejos y cumplimiento de objetivos establecidos.
+### 21.  NOXIS
+- **Rol:** Desarrollador Full-Stack
+- **Asociado con:** Aligare
+- **Descripción:** Desarrollo de una aplicación innovadora en Angular 6, Node.js y Java para optimizar la eficiencia y la toma de decisiones estratégicas empresariales. Se utilizó Microsoft Power BI para la generación de reportes estadísticos y Spring Batch para la carga programada de datos. La solución se desarrolló en colaboración con Microsoft Azure y Amazon.
+- **Aptitudes:** Angular, Node.js, Java EE, AWS Lambda, Microsoft Power BI, Amazon RDS
 
-### 3. Banco Estado
-- **Proyecto:** Migración del portal principal.
-- **Resultados:** Optimización del rendimiento y usabilidad.
+### 22. App Agenda Hotelera TESIS
+- **Rol:** Desarrollador Full-Stack
+- **Descripción:** Desarrollo de una aplicación de gestión hotelera utilizando tecnologías como Spring, Java, AngularJS y Oracle 11g. Se destacó el enfoque en la arquitectura MVC y la experiencia de usuario dinámica e interactiva. La aplicación proporciona una solución eficaz para la gestión de agendas hoteleras.
+- **Aptitudes:** Java EE, JSP, JPA, AngularJS, Hibernate
 
-### 4. Red Salud UC CHRISTUS y Aligare
-- **Tecnologías:** Node.js, Express, MongoDB, AWS.
-- **Logros:** Construcción de aplicaciones robustas y eficientes.
+### 23. Monitoreo y Reportería Servicios críticos WSO2 DAS
+- **Rol:** Desarrollador Full-Stack
+- **Descripción:** Implementación de un sistema integral de monitoreo y generación de informes para servicios críticos ofrecidos por WSO2 DAS. Se enfocó en garantizar disponibilidad, rendimiento y fiabilidad, utilizando herramientas especializadas y análisis de datos en tiempo real. Se implementaron medidas de seguridad y respaldo de datos.
+- **Aptitudes:** WSO2 DAS, Java EE
+
+### 24. Registro de usuarios clave única SEA
+- **Rol:** Desarrollador Full-Stack
+- **Asociado con:** Kibernum Chile
+- **Descripción:** Implementación de un sistema de registro de usuarios utilizando la Clave Única del Servicio de Evaluación Ambiental en Chile. Se destacó la seguridad y la privacidad de los datos, así como la usabilidad y accesibilidad del sistema. La solución proporciona un acceso rápido, seguro y conveniente al portal del SEA.
+- **Aptitudes:** PHP, Java EE, HTML5, CSS Flexbox
+
+### 25. Enc Firma SEA
+- **Rol:** Desarrollador Full-Stack
+- **Asociado con:** Kibernum Chile
+- **Descripción:** Implementación de una solución de firma electrónica utilizando la Clave Única y firma avanzada en documentos del Servicio de Evaluación Ambiental. Se realizó una integración fluida en el front-end y una migración cuidadosa de datos. La solución simplificó y optimizó el proceso de firma de documentos.
+- **Aptitudes:** PHP, Java, Java EE, WSO2, Oracle Database, Oracle SQL Developer, Datamodeler
+
+
 
 ## 📊 Estadísticas de GitHub
 <div align="center">
