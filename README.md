@@ -282,7 +282,6 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" /> </td>
-    <td align="center" width=110> <img height=60 src="https://blog.codepen.io/wp-content/uploads/2022/01/codepen-wordmark-display-inside-black@10x.png" alt="CodePen" /> </td>
   </tr>
   <tr>
     <td align="center">Google Cloud</td>
@@ -290,7 +289,6 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
     <td align="center">Jenkins</td>
     <td align="center">Jupyter</td>
     <td align="center">Jira</td>
-    <td align="center">CodePen</td>
   </tr>
   <tr>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" /> </td>
@@ -299,17 +297,13 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" alt="Drupal" /> </td>
     <td align="center" width=110> <img height=60 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" alt="Magento" /> </td>
-<td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prestashop/prestashop-original.svg" alt="PrestaShop" /> </td>
 
   </tr>
   <tr>
-    <td align="center">Azure</td>
-    <td align="center">AWS</td>
     <td align="center">Google Cloud Platform</td>
     <td align="center">WordPress</td>
     <td align="center">Drupal</td>
     <td align="center">Magento</td>
-    <td align="center">PrestaShop</td>
   </tr>
   <tr>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-plain.svg" alt="Power BI" /> </td>
