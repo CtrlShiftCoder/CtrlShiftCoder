@@ -264,7 +264,7 @@ Mi enfoque en la calidad, eficiencia y mejora continua me ha permitido liderar e
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" /> </td>
-    <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zeplin/zeplin-original.svg" alt="Zeplin" /> </td>
+    <td align="center" width=110> <img height=60 src="https://view.svg.zone/view.html?url=https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg&zoom=max&backUrl=https://www.vectorlogo.zone/logos/zeplinio/index.html&backText=Return+to+VectorLogoZone" alt="Zeplin" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" /> </td>
     <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" /> </td>
   </tr>
