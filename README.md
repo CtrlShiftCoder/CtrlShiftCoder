@@ -97,7 +97,7 @@
 ## 🗣️ Idiomas
 
 - Español (Nativo) 🌎
-- Inglés (A2) 🇬🇧
+- Inglés (B1) 🇬🇧
 
 ## 🎓 Certificaciones
 
